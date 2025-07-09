@@ -1,6 +1,6 @@
 ### Hi, I'm Jordan 👋
 
-I'm a British, UK based IT professional & self-taught full-stack web developer (PHP), enthusiast in infrastructure (Docker, AWS), and avid motorsports enjoyer (F1).
+I'm a British, UK based IT professional & self-taught full-stack web developer (PHP), enthusiast in infrastructure (Docker, AWS), and avid motorsports fan (F1).
 
 ### Contact 💬
 
