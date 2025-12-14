@@ -4,4 +4,4 @@ I'm a British, UK based IT professional & self-taught full-stack web app develop
 
 ### Contact 💬
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/jordanheale/), or through the contact address on my [website](https://www.pridit.co.uk).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/jordan-heale/), or through the contact address on my [website](https://www.pridit.co.uk).
